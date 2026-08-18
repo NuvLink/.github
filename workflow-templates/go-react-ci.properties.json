@@ -1,0 +1,6 @@
+{
+  "name": "NuvLink Go + React CI",
+  "description": "Build e testes para sistemas com backend Go e frontend React",
+  "iconName": "go",
+  "categories": ["Go", "JavaScript"]
+}

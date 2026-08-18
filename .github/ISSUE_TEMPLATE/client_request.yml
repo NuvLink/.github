@@ -1,0 +1,35 @@
+name: Solicitação de automação/integração
+description: Nova demanda de automação de processo ou integração de sistemas para um cliente
+labels: ["client-request"]
+body:
+  - type: input
+    id: client
+    attributes:
+      label: Cliente
+    validations:
+      required: true
+  - type: textarea
+    id: process
+    attributes:
+      label: Processo ou sistemas envolvidos
+      description: Qual processo será automatizado ou quais sistemas serão integrados?
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: Objetivo / resultado esperado
+    validations:
+      required: true
+  - type: textarea
+    id: systems
+    attributes:
+      label: Sistemas de origem/destino (APIs, ERPs, planilhas, etc.)
+    validations:
+      required: false
+  - type: input
+    id: deadline
+    attributes:
+      label: Prazo desejado
+    validations:
+      required: false

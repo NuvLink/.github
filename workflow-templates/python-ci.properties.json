@@ -1,0 +1,6 @@
+{
+  "name": "NuvLink Python CI",
+  "description": "Lint (ruff) e testes (pytest) para projetos de automação em Python",
+  "iconName": "python",
+  "categories": ["Python"]
+}
