@@ -4,7 +4,7 @@ A NuvLink lida com integrações de sistemas e automações que frequentemente e
 
 ## Reportando uma vulnerabilidade
 
-Se você encontrar uma vulnerabilidade de segurança em qualquer repositório da NuvLink, **não abra uma issue pública**. Envie um e-mail para `NuvLinkCORP@gmail.com` (ajustar para o e-mail real da empresa) com:
+Se você encontrar uma vulnerabilidade de segurança em qualquer repositório da NuvLink, **não abra uma issue pública**. Envie um e-mail para `NuvLinkCORP@gmail.com` com:
 
 - Descrição do problema e impacto potencial
 - Passos para reproduzir
