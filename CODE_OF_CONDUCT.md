@@ -17,4 +17,4 @@ Mantemos um ambiente de trabalho respeitoso e profissional em todos os repositó
 
 ## Aplicação
 
-Violações podem ser reportadas para `contato@nuvlink.io` (ajustar para o e-mail real) e serão avaliadas pelos responsáveis pela organização.
+Violações podem ser reportadas para `NuvLinkCORP@gmail.com` e serão avaliadas pelos responsáveis pela organização.
